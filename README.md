@@ -3,7 +3,6 @@
 <div align="center">
   
 [![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://phakathwayo-jms.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/phakathwayo-jms/deploys)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -289,12 +288,6 @@ phakathwayo-website-design/
 
 ---
 
-## 📸 Screenshots
-![Hero](screenshots/hero.png)
-![About](screenshots/about.png)
-![Work](screenshots/work.png)
-![Proof](screenshots/proof.png)
-![Contact](screenshots/contact.png)
 
 
 ---
